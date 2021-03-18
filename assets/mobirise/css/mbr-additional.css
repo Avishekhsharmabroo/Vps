@@ -2249,6 +2249,11 @@ a {
 .cid-snipUXAiBQ .media-container-row .row-copirayt p {
   width: 100%;
 }
+.cid-srZYUCRLdf {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-image: linear-gradient(135deg, #e43f3f 10%, #4479d9 100%) !important;
+}
 .cid-snirX6VxmT {
   z-index: 1000;
   width: 100%;
@@ -2600,9 +2605,6 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
-}
-.cid-srOZ5RPyvT {
-  background-image: url("../../../assets/images/background9.jpg");
 }
 .cid-snipUXAiBQ {
   padding-top: 2rem;
